@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Yashmika-P/Programming/tree/master/0071-simplify-path) |
 | [0657-robot-return-to-origin](https://github.com/Yashmika-P/Programming/tree/master/0657-robot-return-to-origin) |
 ## Simulation
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Yashmika-P/Programming/tree/master/0071-simplify-path) |
 | [0682-baseball-game](https://github.com/Yashmika-P/Programming/tree/master/0682-baseball-game) |
 ## Math
 |  |
