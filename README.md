@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Yashmika-P/Programming/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Yashmika-P/Programming/tree/master/2769-find-the-maximum-achievable-number) |
 ## Matrix
 |  |
 | ------- |
