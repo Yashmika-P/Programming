@@ -3,7 +3,7 @@ class Solution:
         final = []
         path = path.split('/')
         for i in path:
-            if i == '' or i == ' ' or i == '.':
+            if i == '' or i == '.':
                 continue
             elif i == "..":
                 if final:
