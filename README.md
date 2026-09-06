@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Yashmika-P/Programming/tree/master/0682-baseball-game) |
 | [1550-three-consecutive-odds](https://github.com/Yashmika-P/Programming/tree/master/1550-three-consecutive-odds) |
+| [1672-richest-customer-wealth](https://github.com/Yashmika-P/Programming/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Yashmika-P/Programming/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Stack
 |  |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Yashmika-P/Programming/tree/master/1822-sign-of-the-product-of-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Yashmika-P/Programming/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
