@@ -10,7 +10,8 @@ class Solution:
                     final.pop()
             else:
                 final.append(i)
-        return "/" + "/".join(final)
+        final = "/" + "/".join(final)
+        return final
 
 # class Solution:
 #     def simplifyPath(self, path: str) -> str:
