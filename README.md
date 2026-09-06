@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Yashmika-P/Programming/tree/master/1672-richest-customer-wealth) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Yashmika-P/Programming/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
