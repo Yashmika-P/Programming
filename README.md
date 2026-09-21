@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Yashmika-P/Programming/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/Yashmika-P/Programming/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/Yashmika-P/Programming/tree/master/0584-find-customer-referee) |
+| [0607-sales-person](https://github.com/Yashmika-P/Programming/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/Yashmika-P/Programming/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/Yashmika-P/Programming/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Yashmika-P/Programming/tree/master/0620-not-boring-movies) |
