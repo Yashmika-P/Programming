@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Yashmika-P/Programming/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/Yashmika-P/Programming/tree/master/0120-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yashmika-P/Programming/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0682-baseball-game](https://github.com/Yashmika-P/Programming/tree/master/0682-baseball-game) |
 | [1550-three-consecutive-odds](https://github.com/Yashmika-P/Programming/tree/master/1550-three-consecutive-odds) |
@@ -53,5 +54,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Yashmika-P/Programming/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/Yashmika-P/Programming/tree/master/0120-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yashmika-P/Programming/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 <!---LeetCode Topics End-->
