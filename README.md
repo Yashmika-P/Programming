@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Yashmika-P/Programming/tree/master/0064-minimum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yashmika-P/Programming/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0682-baseball-game](https://github.com/Yashmika-P/Programming/tree/master/0682-baseball-game) |
 | [1550-three-consecutive-odds](https://github.com/Yashmika-P/Programming/tree/master/1550-three-consecutive-odds) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Yashmika-P/Programming/tree/master/0064-minimum-path-sum) |
 | [1672-richest-customer-wealth](https://github.com/Yashmika-P/Programming/tree/master/1672-richest-customer-wealth) |
 ## Database
 |  |
@@ -50,5 +52,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Yashmika-P/Programming/tree/master/0064-minimum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yashmika-P/Programming/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 <!---LeetCode Topics End-->
