@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/Yashmika-P/Programming/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/Yashmika-P/Programming/tree/master/0071-simplify-path) |
 | [0657-robot-return-to-origin](https://github.com/Yashmika-P/Programming/tree/master/0657-robot-return-to-origin) |
 ## Simulation
