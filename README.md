@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Yashmika-P/Programming/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Yashmika-P/Programming/tree/master/0089-gray-code) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Yashmika-P/Programming/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Yashmika-P/Programming/tree/master/2769-find-the-maximum-achievable-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Yashmika-P/Programming/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Yashmika-P/Programming/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Yashmika-P/Programming/tree/master/0120-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yashmika-P/Programming/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 ## Backtracking
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Yashmika-P/Programming/tree/master/0089-gray-code) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Yashmika-P/Programming/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
