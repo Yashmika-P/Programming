@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/Yashmika-P/Programming/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Yashmika-P/Programming/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
