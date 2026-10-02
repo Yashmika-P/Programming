@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yashmika-P/Programming/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Yashmika-P/Programming/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/Yashmika-P/Programming/tree/master/0231-power-of-two) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Yashmika-P/Programming/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Yashmika-P/Programming/tree/master/2769-find-the-maximum-achievable-number) |
 ## Matrix
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Yashmika-P/Programming/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/Yashmika-P/Programming/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Yashmika-P/Programming/tree/master/0242-valid-anagram) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Yashmika-P/Programming/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
