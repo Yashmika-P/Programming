@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Yashmika-P/Programming/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Yashmika-P/Programming/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Yashmika-P/Programming/tree/master/0120-triangle) |
+| [0164-maximum-gap](https://github.com/Yashmika-P/Programming/tree/master/0164-maximum-gap) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yashmika-P/Programming/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0682-baseball-game](https://github.com/Yashmika-P/Programming/tree/master/0682-baseball-game) |
 | [1550-three-consecutive-odds](https://github.com/Yashmika-P/Programming/tree/master/1550-three-consecutive-odds) |
@@ -84,9 +85,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Yashmika-P/Programming/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/Yashmika-P/Programming/tree/master/0242-valid-anagram) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Yashmika-P/Programming/tree/master/0231-power-of-two) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Yashmika-P/Programming/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Yashmika-P/Programming/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Yashmika-P/Programming/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
