@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yashmika-P/Programming/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Yashmika-P/Programming/tree/master/0089-gray-code) |
+| [0202-happy-number](https://github.com/Yashmika-P/Programming/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Yashmika-P/Programming/tree/master/0231-power-of-two) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Yashmika-P/Programming/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Yashmika-P/Programming/tree/master/2769-find-the-maximum-achievable-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Yashmika-P/Programming/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Yashmika-P/Programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yashmika-P/Programming/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yashmika-P/Programming/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -120,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yashmika-P/Programming/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Yashmika-P/Programming/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Yashmika-P/Programming/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
