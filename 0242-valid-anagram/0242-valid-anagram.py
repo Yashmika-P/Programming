@@ -5,12 +5,11 @@ class Solution:
             return False
 
         scount = {}
-        tcount = {}
-
-        for i in range(len(s)):
-            # Count frequency of characters in both strings
-            scount[s[i]] = scount.get(s[i], 0) + 1
-            tcount[t[i]] = tcount.get(t[i], 0) + 1
-
-        # Both strings are anagrams if frequencies match
-        return scount == tcount
+        for i in s:
+            scount[i] = scount.get(i,0)+1
+        for i in t:
+            scount[i] = scount.get(i,0)-1
+        for i in scount.values():
+            if i != 0:
+                return False
+        return True
