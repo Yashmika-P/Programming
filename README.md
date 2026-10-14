@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Yashmika-P/Programming/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Yashmika-P/Programming/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Yashmika-P/Programming/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Yashmika-P/Programming/tree/master/0064-minimum-path-sum) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Yashmika-P/Programming/tree/master/0015-3sum) |
 | [0164-maximum-gap](https://github.com/Yashmika-P/Programming/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Yashmika-P/Programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yashmika-P/Programming/tree/master/0242-valid-anagram) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Yashmika-P/Programming/tree/master/0015-3sum) |
 | [0202-happy-number](https://github.com/Yashmika-P/Programming/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
